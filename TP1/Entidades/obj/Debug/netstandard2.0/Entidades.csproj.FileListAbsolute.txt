@@ -1,0 +1,9 @@
+C:\Users\Axel\source\repos\Entidades\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\Axel\source\repos\Entidades\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Axel\source\repos\Entidades\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Axel\source\repos\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+C:\Users\Axel\source\repos\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Axel\source\repos\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\Axel\source\repos\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\Axel\source\repos\Entidades\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
