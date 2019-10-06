@@ -59,7 +59,7 @@ namespace Entidades_2018
         /// <param name="c">Elemento a exponer</param>
         /// <param name="ETipo">Tipos de ítems de la lista a mostrar</param>
         /// <returns></returns>
-        public static string Mostrar(Changuito c, ETipo tipo)
+        public string Mostrar(Changuito c, ETipo tipo)
         {
             StringBuilder sb = new StringBuilder();
 
