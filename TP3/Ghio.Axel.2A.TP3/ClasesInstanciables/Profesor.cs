@@ -25,7 +25,7 @@ namespace ClasesInstanciables
         {
             for(int i = 0; i<2; i++)
             {
-                clasesDelDia.Enqueue((Universidad.EClases)random.Next(4));
+                clasesDelDia.Enqueue((Universidad.EClases)random.Next(0, 4));
             }
         }
 
