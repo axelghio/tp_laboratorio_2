@@ -1,0 +1,18 @@
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\bin\Debug\Ghio.Axel.2A.TP3.dll
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\bin\Debug\Ghio.Axel.2A.TP3.pdb
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\bin\Debug\Excepciones.dll
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\bin\Debug\Excepciones.pdb
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\obj\Debug\Ghio.Axel.2A.TP3.dll
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\obj\Debug\Ghio.Axel.2A.TP3.pdb
+C:\Users\Axel\Desktop\Progra y Labo 2\TP3\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\bin\Debug\Ghio.Axel.2A.TP3.dll
+C:\Users\Axel\Desktop\Progra y Labo 2\TP3\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\bin\Debug\Ghio.Axel.2A.TP3.pdb
+C:\Users\Axel\Desktop\Progra y Labo 2\TP3\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\bin\Debug\Excepciones.dll
+C:\Users\Axel\Desktop\Progra y Labo 2\TP3\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\bin\Debug\Excepciones.pdb
+C:\Users\Axel\Desktop\Progra y Labo 2\TP3\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\Axel\Desktop\Progra y Labo 2\TP3\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\Progra y Labo 2\TP3\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\Axel\Desktop\Progra y Labo 2\TP3\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\obj\Debug\Ghio.Axel.2A.TP3.dll
+C:\Users\Axel\Desktop\Progra y Labo 2\TP3\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\obj\Debug\Ghio.Axel.2A.TP3.pdb

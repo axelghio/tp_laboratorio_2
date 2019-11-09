@@ -1,0 +1,12 @@
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Axel\Desktop\Progra y Labo 2\TP3\Ghio.Axel.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Axel\Desktop\Progra y Labo 2\TP3\Ghio.Axel.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Axel\Desktop\Progra y Labo 2\TP3\Ghio.Axel.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Axel\Desktop\Progra y Labo 2\TP3\Ghio.Axel.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\Progra y Labo 2\TP3\Ghio.Axel.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Axel\Desktop\Progra y Labo 2\TP3\Ghio.Axel.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb

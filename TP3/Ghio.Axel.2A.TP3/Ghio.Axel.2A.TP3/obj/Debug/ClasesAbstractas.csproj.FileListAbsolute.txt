@@ -1,0 +1,5 @@
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\bin\Debug\Ghio.Axel.2A.TP3.dll
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\bin\Debug\Ghio.Axel.2A.TP3.pdb
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\obj\Debug\Ghio.Axel.2A.TP3.dll
+C:\Users\Axel\Desktop\Ghio.Axel.2A.TP3\Ghio.Axel.2A.TP3\obj\Debug\Ghio.Axel.2A.TP3.pdb
