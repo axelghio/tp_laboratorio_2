@@ -1,0 +1,13 @@
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\Entidades\obj\Debug\Entidades.pdb

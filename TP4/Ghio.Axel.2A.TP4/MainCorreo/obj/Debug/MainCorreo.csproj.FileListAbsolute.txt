@@ -1,0 +1,27 @@
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Axel\source\repos\Ghio.Axel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\MainCorreo\bin\Debug\Entidades.dll.config
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Axel\Desktop\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
