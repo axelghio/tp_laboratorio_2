@@ -9,6 +9,7 @@ namespace Entidades
 {
     public class Correo : IMostrar<List<Paquete>>
     {
+
         #region campos
         private List<Thread> mockPaquetes;
         private List<Paquete> paquetes;
@@ -19,12 +20,18 @@ namespace Entidades
         #endregion
 
         #region Metodos
+        /// <summary>
+        /// Constructor por defaul que inicializa listas.
+        /// </summary>
         public Correo()
         {
             mockPaquetes = new List<Thread>();
             paquetes = new List<Paquete>();
         }
 
+        /// <summary>
+        /// metodo FinEntregas, detendra los hilos.
+        /// </summary>
         public void FinEntregas()
         {
             foreach (Thread item in mockPaquetes)
@@ -33,6 +40,11 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Metodo que mostrara los datos del objeto a manipular.
+        /// </summary>
+        /// <param name="elementos"></param>
+        /// <returns></returns>
         public string MostrarDatos(IMostrar<List<Paquete>> elementos)
         {
             string aux = "";
@@ -45,6 +57,12 @@ namespace Entidades
             return aux;
         }
 
+        /// <summary>
+        /// Operador de sobre carga de adicion agregara paquetes a una lista.
+        /// </summary>
+        /// <param name="c"></param>
+        /// <param name="p"></param>
+        /// <returns></returns>
         public static Correo operator +(Correo c, Paquete p)
         {
             bool aux = false;

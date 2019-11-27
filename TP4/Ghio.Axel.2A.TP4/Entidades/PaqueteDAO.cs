@@ -22,12 +22,21 @@ namespace Entidades
         #endregion
 
         #region Metodos
+        /// <summary>
+        /// Constructor statico inicializara las conexiones con el sql
+        /// </summary>
         static PaqueteDAO()
         {
             comando = new SqlCommand();
             conexion = new SqlConnection(Properties.Settings.Default.connect);
         }
 
+        /// <summary>
+        /// Metodo insertar.
+        /// Insertara objetos en la base de datos.
+        /// </summary>
+        /// <param name="p"></param>
+        /// <returns></returns>
         public static bool Insertar(Paquete p)
         {
             bool rtn = false;

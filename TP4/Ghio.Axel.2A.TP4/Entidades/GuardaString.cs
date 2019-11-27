@@ -10,6 +10,12 @@ namespace Entidades
 {
     public static class GuardaString
     {
+        /// <summary>
+        /// Metodo statico de extension que guardara un archivo.
+        /// </summary>
+        /// <param name="texto"></param>
+        /// <param name="archivo"></param>
+        /// <returns></returns>
         public static bool Guardar(this string texto, string archivo)
         {
             bool rtn = false;
@@ -22,10 +28,10 @@ namespace Entidades
                 }
 
             }
-            catch (Exception)
+            catch (Exception e)
             {
 
-                throw;
+                throw e;
             }
             return rtn;
         }

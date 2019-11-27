@@ -23,6 +23,10 @@ namespace Entidades
         #endregion
 
         #region Metodos
+        /// <summary>
+        /// Hilos para el ciclo de vida del objeto.
+        /// para saber su estado cuando el programa se este ejecutando.
+        /// </summary>
         public void MockCicloVida()
         {              
             while (this.estado != EEstado.Entregado)
@@ -43,12 +47,23 @@ namespace Entidades
             PaqueteDAO.Insertar(this);
         }
 
+        /// <summary>
+        /// Metodo Mostrar.
+        /// </summary>
+        /// <param name="elemento"></param>
+        /// <returns></returns>
         public string MostrarDatos(IMostrar<Paquete> elemento)
         {
             Paquete p = (Paquete)elemento;
             return string.Format("{0} para {1}", p.trackingID, p.direccionEntrega);
         }
-
+        
+        /// <summary>
+        /// Sobrecarga de operador igualdad dira si dos paquetes son iguales.
+        /// </summary>
+        /// <param name="p1"></param>
+        /// <param name="p2"></param>
+        /// <returns></returns>
         public static bool operator ==(Paquete p1, Paquete p2)
         {
             bool rtn = false;
@@ -59,11 +74,22 @@ namespace Entidades
             return rtn;
         }
 
+        /// <summary>
+        /// Metodo de sobrecarga desigualdad.
+        /// </summary>
+        /// <param name="p1"></param>
+        /// <param name="p2"></param>
+        /// <returns></returns>
         public static bool operator !=(Paquete p1, Paquete p2)
         {
             return !(p1==p2);
         }
 
+        /// <summary>
+        /// Constructor con parametros.
+        /// </summary>
+        /// <param name="direccionEntrega"></param>
+        /// <param name="trackingID"></param>
         public Paquete(string direccionEntrega, string trackingID)
         {
             this.estado = EEstado.Ingresado;
@@ -71,6 +97,10 @@ namespace Entidades
             this.trackingID = trackingID;
         }
 
+        /// <summary>
+        /// Sobrescritura del metodo tostring. para mostrar datos del objeto.
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();

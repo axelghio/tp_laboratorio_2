@@ -89,7 +89,7 @@
             this.mostrarToolStripMenuItem.Name = "mostrarToolStripMenuItem";
             this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.mostrarToolStripMenuItem.Text = "Mostrar";
-            this.mostrarToolStripMenuItem.Click += new System.EventHandler(this.mostrarToolStripMenuItem_Click);
+            this.mostrarToolStripMenuItem.Click += new System.EventHandler(this.MostrarToolStripMenuItem_Click);
             // 
             // lstEstadoEnViaje
             // 
@@ -172,7 +172,7 @@
             this.btnMostrarTodos.TabIndex = 3;
             this.btnMostrarTodos.Text = "Mostrar Todo";
             this.btnMostrarTodos.UseVisualStyleBackColor = true;
-            this.btnMostrarTodos.Click += new System.EventHandler(this.btnMostrarTodos_Click);
+            this.btnMostrarTodos.Click += new System.EventHandler(this.BtnMostrarTodos_Click);
             // 
             // btnAgregar
             // 
@@ -183,7 +183,7 @@
             this.btnAgregar.TabIndex = 2;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
-            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
+            this.btnAgregar.Click += new System.EventHandler(this.BtnAgregar_Click);
             // 
             // txtDireccion
             // 

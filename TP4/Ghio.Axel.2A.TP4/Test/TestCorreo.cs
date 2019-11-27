@@ -7,6 +7,9 @@ namespace Test
     [TestClass]
     public class TestCorreo
     {
+        /// <summary>
+        /// Metodo para testear si un correo es valido y no null.
+        /// </summary>
         [TestMethod]
         public void TestValidarCorreo()
         {
@@ -14,6 +17,9 @@ namespace Test
             Assert.IsNotNull(c.Paquetes);
         }
 
+        /// <summary>
+        /// Metodo para validar si hay paquetes iguales.
+        /// </summary>
         [TestMethod]
         public void TestValidarPaquetesIGuales()
         {
