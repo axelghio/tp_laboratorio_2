@@ -13,9 +13,9 @@ namespace Entidades
         /// Constructor con parametros.
         /// </summary>
         /// <param name="mensaje"></param>
-        public TrakeingIdRepetidoException(string mensaje)
+        public TrakeingIdRepetidoException(string mensaje) : base(mensaje)
         {
-            MessageBox.Show(mensaje);
+            
         }
 
         /// <summary>
@@ -23,7 +23,7 @@ namespace Entidades
         /// </summary>
         /// <param name="mensaje"></param>
         /// <param name="inner"></param>
-        public TrakeingIdRepetidoException(string mensaje, Exception inner)
+        public TrakeingIdRepetidoException(string mensaje, Exception inner) : base(mensaje, inner)
         {
 
         }

@@ -26,6 +26,7 @@ namespace Entidades
         /// <summary>
         /// Hilos para el ciclo de vida del objeto.
         /// para saber su estado cuando el programa se este ejecutando.
+        /// finalmente lo guarda en la base de datos.
         /// </summary>
         public void MockCicloVida()
         {              

@@ -26,8 +26,8 @@ namespace Test
             Correo c = new Correo();
             try
             {
-                Paquete p1 = new Paquete("mitre", "123123123");
-                Paquete p2 = new Paquete("santa fe", "123123123");
+                Paquete p1 = new Paquete("mitre", "1234567890");
+                Paquete p2 = new Paquete("santa fe", "1234567890");
                 c += p1;
                 c += p2;
             }

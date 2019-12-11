@@ -21,16 +21,14 @@ namespace Entidades
             bool rtn = false;
             try
             {
-                using (StreamWriter arch = new StreamWriter(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\" + archivo + ".txt", true))
+                using (StreamWriter file = new StreamWriter(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\" + archivo, true))
                 {
-                    arch.WriteLine(texto);
+                    file.WriteLine(texto);
                     rtn = true;
                 }
-
             }
             catch (Exception e)
             {
-
                 throw e;
             }
             return rtn;

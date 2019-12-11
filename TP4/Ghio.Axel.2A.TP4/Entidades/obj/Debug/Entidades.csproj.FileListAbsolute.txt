@@ -18,3 +18,10 @@ D:\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\Entidades\obj\Debug\Entidades.csprojAsse
 D:\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 D:\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\Entidades\obj\Debug\Entidades.dll
 D:\Progra y Labo 2\TP4\Ghio.Axel.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\axelg\Desktop\Ghio.Axel.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\axelg\Desktop\Ghio.Axel.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\axelg\Desktop\Ghio.Axel.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\axelg\Desktop\Ghio.Axel.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\axelg\Desktop\Ghio.Axel.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\axelg\Desktop\Ghio.Axel.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\axelg\Desktop\Ghio.Axel.2A.TP4\Entidades\obj\Debug\Entidades.pdb

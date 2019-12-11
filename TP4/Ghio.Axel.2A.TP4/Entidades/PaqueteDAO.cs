@@ -40,30 +40,32 @@ namespace Entidades
         public static bool Insertar(Paquete p)
         {
             bool rtn = false;
+
+            comando = new SqlCommand();
+            comando.CommandText = "INSERT INTO [correo-sp-2017].[dbo].[Paquetes] ([direccionEntrega],[trackingID],[alumno])" + " VALUES (@direccion, @tracking, @alumno)";
+            comando.Parameters.AddWithValue("@direccion", p.DireccionEntrega);
+            comando.Parameters.AddWithValue("@tracking", p.TrackingID);
+            comando.Parameters.AddWithValue("@alumno", "Ghio Axel");
+
             try
             {
                 conexion.Open();
-                comando = new SqlCommand();
-                string query = "INSERT INTO dbo.Paquetes (direccionEntrega, trackingID, alumno) VALUES ('" + p.DireccionEntrega + "', '" + p.TrackingID + "','Axel')";
                 comando.Connection = conexion;
-                comando.CommandText = query;
-                rtn = true;
+                if (comando.ExecuteNonQuery() > 0)
+                {
+                    rtn = true;
+                }
             }
-            catch (SqlException sql)
+            catch (Exception error)
             {
-                MessageBox.Show(sql.Message, "La configuracion con el sql server es invalida.");
-            }
-            catch(InvalidOperationException con)
-            {
-                MessageBox.Show(con.Message, "No se puede establecer una conexión.");
+                throw error;
             }
             finally
             {
                 conexion.Close();
             }
-
             return rtn;
+            #endregion
         }
-        #endregion
     }
 }

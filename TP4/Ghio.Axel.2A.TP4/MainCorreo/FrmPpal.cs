@@ -64,7 +64,7 @@ namespace MainCorreo
             if (!object.Equals(elemento, null))
             {
                 this.rtbMostrar.Text = elemento.MostrarDatos(elemento);
-                this.rtbMostrar.Text.Guardar("Guardar");
+                this.rtbMostrar.Text.Guardar("salida.txt");
             }
         }
 
@@ -99,13 +99,16 @@ namespace MainCorreo
             try
             {
                 correo += p;
+                ActualizarEstado();
             }
-            catch(TrakeingIdRepetidoException idRepetido)
+            catch(TrakeingIdRepetidoException repetido)
             {
-                MessageBox.Show("El paquete ya se encuentra en el correo.", idRepetido.Message);
-                throw new TrakeingIdRepetidoException("El paquete ya se encuentra en el correo.");
+                MessageBox.Show(repetido.Message);
             }
-            ActualizarEstado();
+            catch(Exception a)
+            {
+                MessageBox.Show(a.Message);
+            }
         }
 
         /// <summary>

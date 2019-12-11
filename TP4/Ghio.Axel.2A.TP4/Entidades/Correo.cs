@@ -65,38 +65,23 @@ namespace Entidades
         /// <returns></returns>
         public static Correo operator +(Correo c, Paquete p)
         {
-            bool aux = false;
+            bool flag = false;
 
-            if(c.paquetes.Count > 0)
+            foreach (Paquete item in c.paquetes)
             {
-                foreach (Paquete item in c.paquetes)
+                if (item == p)
                 {
-                    if (item != p)
-                    {
-                        c.paquetes.Add(p);
-                        Thread h = new Thread(p.MockCicloVida);
-                        c.mockPaquetes.Add(h);
-                        h.Start();
-                        break;
-                    }
-                    else
-                    {
-                        aux = true;
-                    }
+                    flag = true;
+                    throw new TrakeingIdRepetidoException("Paquete ID repetido. Por favor ingresa otro ID.");
                 }
-
             }
-            else
+
+            if (flag != true)
             {
                 c.paquetes.Add(p);
                 Thread h = new Thread(p.MockCicloVida);
                 c.mockPaquetes.Add(h);
                 h.Start();
-            }
-            
-            if(aux == true)
-            {
-                throw new TrakeingIdRepetidoException("El paquete ya se encuentra en el correo.");
             }
             return c;
         }

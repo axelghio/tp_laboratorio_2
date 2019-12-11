@@ -26,7 +26,8 @@ namespace Entidades.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=STORM;Initial Catalog=correo-sp-2017;Integrated Security=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-S72PF01\\SQL2012;Initial Catalog=correo-sp-2017;Integrated Sec" +
+            "urity=True")]
         public string connect {
             get {
                 return ((string)(this["connect"]));
